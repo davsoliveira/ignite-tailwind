@@ -1,14 +1,12 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: [
-    '.src/**/*.tsx',
-  ],
+  content: ["./src/**/*.tsx"],
   theme: {
     extend: {
       colors: {
-        davi: '#8257e6',
-      }
+        davi: "#8257e6",
+      },
     },
   },
-  plugins: []
+  plugins: [],
 };

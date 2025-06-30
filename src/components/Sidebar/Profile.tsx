@@ -5,7 +5,7 @@ export function Profile() {
   return (
     <div className="grid grid-cols-profile items-center gap-3">
       <img
-        src="https://github.com/itsdavss.png"
+        src="https://github.com/davsoliveira.png"
         className="h-10 w-10 rounded-full"
         alt=""
       />

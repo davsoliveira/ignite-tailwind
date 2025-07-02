@@ -50,7 +50,7 @@ export default function Home() {
             </label>
             <div className="flex flex-col gap-6 lg:grid lg:grid-cols-2">
               <Input.Root>
-                <Input.Control id="firstName" defaultValue="Diego" />
+                <Input.Control id="firstName" defaultValue="Davi" />
               </Input.Root>
 
               <div className="flex flex-col gap-3 lg:block">
@@ -62,7 +62,7 @@ export default function Home() {
                 </label>
 
                 <Input.Root>
-                  <Input.Control id="lastName" defaultValue="Fernandes" />
+                  <Input.Control id="lastName" defaultValue="Oliveira" />
                 </Input.Root>
               </div>
             </div>
@@ -82,7 +82,7 @@ export default function Home() {
               <Input.Control
                 id="email"
                 type="email"
-                defaultValue="diego@rocketseat.com.br"
+                defaultValue="davi.ol.santos@gmail.com"
               />
             </Input.Root>
           </div>
@@ -112,7 +112,7 @@ export default function Home() {
               Role
             </label>
             <Input.Root>
-              <Input.Control id="role" defaultValue="CTO" />
+              <Input.Control id="role" defaultValue="Desenvolvedor Fronted" />
             </Input.Root>
           </div>
 
@@ -190,7 +190,7 @@ export default function Home() {
 
               <Textarea
                 id="bio"
-                defaultValue="I'm a Product Designer based in Melbourne, Australia. I specialise in UX/UI design, brand strategy, and Webflow development."
+                defaultValue="I'm a Frontend Developer based in São Paulo, Brazil. I specialise in Web development."
               />
             </div>
           </div>

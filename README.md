@@ -2,7 +2,7 @@ Ignite Tailwind
 
 This was the project developed in Rocketseat's Mastering Tailwind course.
 
-## [View the project here]([https://coffee-delivery-iota-seven.vercel.app/](https://ignite-tailwind-mu.vercel.app/)) ##
+## [View the project here](https://ignite-tailwind-mu.vercel.app/) ##
 
 ## Table of contents
 
